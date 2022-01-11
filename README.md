@@ -1,6 +1,6 @@
 # date_converter
 
-Automatically convert datenum to tdate string of yyyy-mm-dd, or convert date string to datenumm
+Automatically convert datenum to date string of yyyy-mm-dd, or convert date string to datenumm
 
 ## Installation
 

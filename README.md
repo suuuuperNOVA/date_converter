@@ -10,7 +10,14 @@ $ pip install date_converter
 
 ## Usage
 
-- TODO
+`date_converter` can be used to convert datenum to date string or date string to datenum automatically as follows:
+
+```python
+from date_converter.date_converter import date_converter
+
+dt_num = date_converter('2020-01-01')
+dt_str = date_converter(737425)
+```
 
 ## Contributing
 
